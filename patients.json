@@ -1,0 +1,82 @@
+{
+  "p001": {
+    "name": "Amit Sharma",
+    "age": 45,
+    "gender": "Male",
+    "blood_pressure": "130/85",
+    "heart_rate": 78,
+    "diabetes": true
+  },
+  "p002": {
+    "name": "Neha Patel",
+    "age": 32,
+    "gender": "Female",
+    "blood_pressure": "120/80",
+    "heart_rate": 72,
+    "diabetes": false
+  },
+  "p003": {
+    "name": "Rahul Verma",
+    "age": 50,
+    "gender": "Male",
+    "blood_pressure": "140/90",
+    "heart_rate": 85,
+    "diabetes": true
+  },
+  "p004": {
+    "name": "Priya Singh",
+    "age": 28,
+    "gender": "Female",
+    "blood_pressure": "110/70",
+    "heart_rate": 68,
+    "diabetes": false
+  },
+  "p005": {
+    "name": "Vikram Joshi",
+    "age": 60,
+    "gender": "Male",
+    "blood_pressure": "150/95",
+    "heart_rate": 88,
+    "diabetes": true
+  },
+  "p006": {
+    "name": "Sneha Kulkarni",
+    "age": 35,
+    "gender": "Female",
+    "blood_pressure": "125/82",
+    "heart_rate": 74,
+    "diabetes": false
+  },
+  "p007": {
+    "name": "Arjun Mehta",
+    "age": 42,
+    "gender": "Male",
+    "blood_pressure": "135/88",
+    "heart_rate": 80,
+    "diabetes": true
+  },
+  "p008": {
+    "name": "Pooja Desai",
+    "age": 30,
+    "gender": "Female",
+    "blood_pressure": "118/76",
+    "heart_rate": 70,
+    "diabetes": false
+  },
+  "p009": {
+    "name": "Rohan Gupta",
+    "age": 55,
+    "gender": "Male",
+    "blood_pressure": "145/92",
+    "heart_rate": 82,
+    "diabetes": true
+  },
+  "p010": {
+    "name": "Kavita Nair",
+    "age": 38,
+    "gender": "Female",
+    "blood_pressure": "122/78",
+    "heart_rate": 75,
+    "diabetes": false
+  }
+}
